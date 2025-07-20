@@ -7,13 +7,13 @@ to a specific personality type. Based on the user's selections, the app tracks p
 dominant personality in a result bar. All information is stored in a database.
 
 Features:
-![Start](Assets/Start)
+![Start](Assets/Start.png)
 - User registration and login
-  ![Login](Assets/userlogin)
+  ![Login](Assets/userlogin.png)
 - Admin panel to add questions and assign personalities
- ![Admin](Assets/Adminpanel)
+ ![Admin](Assets/Adminpanel.png)
 - MCQ-based personality test
-   ![MCQS](Assets/Questionframe (1))
+   ![MCQS](Assets/Questionframe(1).png)
 - Each option mapped to a personality trait (e.g., Introvert, Extrovert, Ambivert, Analytical)
 - Result shown as a Progress Bar of personality percentages
   ![Result](Assets/Result.png)
